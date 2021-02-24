@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>  
-  <body>
-    <img src="img.png" alt="" height=200 width=1000>
-  </body>
-</html>
+<img src="img.png" alt="" height=200 width=1000>
 
 ### Hi there 👋 
 
