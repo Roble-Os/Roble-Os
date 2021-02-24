@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>  
   <body>
     <img src="img.png" alt="" height=200 width=1000>
