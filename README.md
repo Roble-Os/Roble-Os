@@ -20,8 +20,8 @@ Also, i'm currently learning the skils needed for the demanding jobs.
 ----------------------------------------------------------------------------------------
 
 Here are some of the courses i'm taking in this semester.
-
-
+<br>
+<br>
 |                 Course                 |    Key   |
 |:--------------------------------------:|:--------:|
 | Switching and routing in data networks | SCD-1004 |
