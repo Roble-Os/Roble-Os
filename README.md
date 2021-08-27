@@ -1,14 +1,14 @@
-<img src="img.png" alt="" height=200 width=1000>
+<img src="img.png" alt="" height=200 width=100%>
 
 ### Hi there 👋 
 
 I am a student of engineering in computational systems at ITT. In Tijuana, B.C. Mexico.
 
-Also, i'm currently learning the skils needed for the demanding jobs. 
+Also, 🌱 i'm currently learning the skils needed for the demanding jobs. 
 
 ----------------------------------------------------------------------------------------
 
-### Skils adquired :
+### A few skils acquired :
 
 - SQl Server
 - MySQL
@@ -24,10 +24,11 @@ Here are some of the courses i'm taking in this semester.
 <br>
 |                 Course                 |    Key   |
 |:--------------------------------------:|:--------:|
-| Switching and routing in data networks | SCD-1004 |
-| Operating systems workshop             | SCA-1026 |
-| Software Engineering Fundamentals      | SCC-1007 |
-| Computer architecture                  | SCD-1003 |
+| Software Engineering | SCD-1011SC6B |
+| Languages And Automates I | SCD-1015SC6B |
+| Network Administration             | SCA-1002SC8B |
+| Programmable Systems      | SCC-1023SC7B |
+| Web Programming                  | AEB-1055SC8B |
 
 <!--
 **Roble-Os/Roble-Os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
